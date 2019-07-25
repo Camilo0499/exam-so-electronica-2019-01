@@ -1,4 +1,4 @@
-// Juan Camilo Hoyos 1824934. Sistemas Operativos. Primer Parcial
+# Juan Camilo Hoyos 1824934. Sistemas Operativos. Primer Parcial
 Pregunta 1:
 Tiempo de ejecución primer escenario
 0.99 seg
