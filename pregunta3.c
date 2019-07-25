@@ -12,7 +12,7 @@ int main (){
 }
 	else {
 		int w = wait(0);
-		printf("Soy el hijo y voy de segundo y el wait() que tengo arroja %d\n",w);
+		printf("Soy el hijo, voy de segundo y el wait() que tengo arroja %d\n",w);
 
 }
 }
